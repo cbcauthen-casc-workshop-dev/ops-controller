@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "cbcauthen-casc-workshop-dev-ops-controller"
 description: "CloudBees CI configuration bundle for the cbcauthen-casc-workshop-dev ops-controller Controller"
 parent: "base"
